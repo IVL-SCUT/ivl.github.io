@@ -7,8 +7,6 @@ Our main research directions are reinforcement learning, energy management for h
 
 
 
-![YuanLin.jpg](_resources/YuanLin.jpg){width=80%}
-
 <img src = "_resources/YuanLin.jpg">
 
 
