@@ -5,7 +5,7 @@ Our main research directions are reinforcement learning, energy management for h
 ### Principal Investigator:
 
 
-![YuanLin.jpg](../_resources/YuanLin.jpg)
+![YuanLin.jpg](/_resources/YuanLin.jpg)
 
 
 
