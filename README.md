@@ -9,12 +9,14 @@ just news
 ## People
 ### Principal Investigator:
 * Yuan Lin(林远):
+
 Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
 
 
 ### Doctor of Philosophy:
 * Changfu Gong（龚长富）:
 * Jingming Xu（徐锦明）:
+
 ### Master:
 * Xiao Liu（刘啸）：
 * Qitao Li（黎启涛）：
