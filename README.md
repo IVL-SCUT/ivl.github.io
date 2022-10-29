@@ -4,7 +4,7 @@ Our main research directions are reinforcement learning, energy management for h
 # People
 ### Principal Investigator:
 
-![YuanLin](assets/YuanLin.jpg)
+<img src="assets/YuanLin.jpg" width="150" height=""/>
 
 
 * Yuan Lin(林远):<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
@@ -19,6 +19,7 @@ Our main research directions are reinforcement learning, energy management for h
 * Qitao Li（黎启涛）：
 * Ruichen Xu（徐瑞辰）：
 * Hao Zhang（张浩）：
+<img src="assets/Haonan Wu.jpg" width="150" height=""/>
 * Haonan Wu（吴浩楠）：
 * Antai Xie（谢安泰）：
 	
