@@ -1,0 +1,16 @@
+/*------------------------------------*\
+    #COLOURS
+\*------------------------------------*/
+
+$theme1: #df2854;
+$color-main: #000;
+$color-grey: #767c87;
+$color-grey-light: #bbb;
+$color-pale-bg: #efefef;
+
+$border-on-light: darken($color-pale-bg, 5%);
+$color-text-lighter: $color-grey;
+
+// paths
+//Usage: background-image: url(#{$themepath}/blockquote.png);
+$themepath: '/theme-assets';

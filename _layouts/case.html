@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+
+<article class="post">
+
+<header class="post-header">
+<h1 class="post-title">{{ page.title }}</h1>
+</header>
+
+<div class="post-content">
+{% if page.summary %}<p class="article-summary">{{ page.summary }}</p>{% endif %}
+{% if page.main-pic %}<img src="/{{ site.theme-path }}/case-studies/{{ page.main-pic }}" alt="{{ page.title }}" class="feature-image"/>{% endif %}
+
+{{ content }}
+</div>
+
+<a class="back-button" href="/case-studies/" title="Other stories">&larr; Other case studies</a>
+
+</article>
+
+</div>

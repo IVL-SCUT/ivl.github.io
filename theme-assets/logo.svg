@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="126px" viewBox="0 0 193 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.951171875" y="0.756763393" width="191.097656" height="124.486473" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="191.097656" height="124.486473" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <use id="Rectangle" stroke="#000000" mask="url(#mask-2)" stroke-width="10" fill="#FBFBFB" xlink:href="#path-1"></use>
+            <path d="M70.9952325,55.4495629 C77.3233791,55.4495629 82.4533556,50.3195865 82.4533556,43.9914398 C82.4533556,37.6632932 77.3233791,32.5333167 70.9952325,32.5333167 C64.6670858,32.5333167 59.5371094,37.6632932 59.5371094,43.9914398 C59.5371094,50.3195865 64.6670858,55.4495629 70.9952325,55.4495629 Z M122.004768,55.4495629 C128.332914,55.4495629 133.462891,50.3195865 133.462891,43.9914398 C133.462891,37.6632932 128.332914,32.5333167 122.004768,32.5333167 C115.676621,32.5333167 110.546644,37.6632932 110.546644,43.9914398 C110.546644,50.3195865 115.676621,55.4495629 122.004768,55.4495629 Z" id="Combined-Shape" fill="#000000"></path>
+            <path d="M96.5,101.466683 C120.814778,101.466683 128.463016,76.5120698 128.463016,76.5120698 C128.463016,76.5120698 114.453105,79.8549451 96.8004187,79.8549451 C79.1477322,79.8549451 64.5369837,76.5120698 64.5369837,76.5120698 C64.5369837,76.5120698 72.1852222,101.466683 96.5,101.466683 Z" id="Oval-2" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

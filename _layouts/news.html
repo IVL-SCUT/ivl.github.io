@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+
+<div class="wrapper">
+
+<article>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+<div class="post-content">
+{{ content }}
+</div>
+
+<div class="page-listing">
+{% for post in site.posts limit:10 %}
+<div class="listing"> 
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="Read more: {{ post.title }}">{{ post.title }}</a></h2>
+<p><span class="inline-post-date">{{ post.date | date: "%b %-d, %Y" }}—</span>{{ post.excerpt }}</p>
+</div>
+{% endfor %}
+</div>
+
+</article>
+
+</div><!-- end wrapper -->

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+
+<article>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+<div class="post-content">
+{% if page.excerpt %}<p class="article-summary">{{ page.excerpt }}</p>{% endif %}
+{{ content }}
+</div>
+
+<div class="page-listing event-listing">
+
+{% assign items = site.resource | sort: 'date' %}
+{% for resource in site.resource reversed %}
+
+<!-- event item -->
+<div class="listing cf">
+{% if resource.summary == nil %}
+
+{% if resource.external-website %}
+<h2 class="external-url"><a title="{{ resource.title }} website (external link)" href="{{ resource.external-website }}">{{ resource.title }}</a></h2>
+{% else %}
+<h2>{{ resource.title }}</h2>
+{% endif %}
+
+{{ resource.content }}
+{% else %}
+<h2><a title="{{ resource.title }} details" href="{{ resource.url }}">{{ resource.title }}</a></h2>
+<p>{{ resource.summary }}</p>
+<a href="{{ resource.url }}" class="read-more-button" title="{{ resource.title }} details">More details</a>
+{% endif %}
+</div>
+{% endfor %}
+
+</div><!-- end listing -->
+
+</article>
+
+</div><!-- end wrapper -->

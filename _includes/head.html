@@ -1,0 +1,43 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="@regmtait">
+  <link rel=icon href="/{{ site.theme-path }}/favicon.svg" sizes="any" type="image/svg+xml">
+  <title>{% if page.title %}{{ page.title }} • {{site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.title }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
+
+{% if page.nav-class == "launch" or "contact" %}
+
+<script src="https://maps.googleapis.com/maps/api/js?key={{ site.map-api-key }}&callback=initMap"
+    async defer></script>
+
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('google-map'), {
+          center: {lat: 53.7530398, lng: -0.3682561},
+          zoom: 17,
+        });
+
+        var pointer = "/{{ site.theme-path }}/map-pointer.svg";
+
+        var marker = new google.maps.Marker({
+          position: map.getCenter(),
+          icon: pointer,
+          map: map
+        });
+
+      }
+    </script>
+
+{% endif %}
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+</head>
