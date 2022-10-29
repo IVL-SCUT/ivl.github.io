@@ -1,4 +1,4 @@
-# Lab Introduction
+# Intelligent Vehicles Lab
 Our main research directions are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving.At present, we have one PI, two PhD and six masters in our laboratory.
 
 # People
@@ -18,8 +18,13 @@ Our main research directions are reinforcement learning, energy management for h
 * Xiao Liu（刘啸）：
 * Qitao Li（黎启涛）：
 * Ruichen Xu（徐瑞辰）：
-* Hao Zhang（张浩）：
+* Hao Zhang（张浩）：  
+
+
+
+
 <img src="assets/Haonan Wu.jpg" width="150" height=""/>
+
 * Haonan Wu（吴浩楠）：
 * Antai Xie（谢安泰）：
 	
