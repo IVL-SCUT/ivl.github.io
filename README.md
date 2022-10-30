@@ -48,6 +48,7 @@ Research Direction  : Reinforce learning
 &emsp;<img src="assets/Antai Xie.jpg" width="150" height=""/> 
 * Antai Xie（谢安泰）：<br/>
 Research Direction  : Deep Learining
+
 ***	
 # Publications
 * [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: “Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,”IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
