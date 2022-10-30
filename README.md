@@ -20,7 +20,7 @@ Our main research directions are reinforcement learning, energy management for h
 
 &emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
  
-* Jingming Xu（徐锦明）:<br/>
+* Jinming Xu（徐锦明）:<br/>
  Research Direction :Mixed integer control, safe reinforcement learning.
 
 
