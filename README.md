@@ -19,16 +19,14 @@ Our main research directions are reinforcement learning, energy management for h
 
 &emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
 * Jingming Xu（徐锦明）:
-&emsp
-&emsp;Research Direction  :Mixed integer control, safe reinforcement learning.
+Research Direction  :Mixed integer control, safe reinforcement learning.
 
 
 ***  
 ## Master Students:
 &emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
 * Xiao Liu（刘啸）：
-&emsp
-&emsp;Research Direction  :
+Research Direction  :
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
 * Qitao Li（黎启涛）：
