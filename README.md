@@ -7,14 +7,20 @@ Our main research directions are reinforcement learning, energy management for h
 # People
 ### Principal Investigator:
 
-<img src="assets/YuanLin.jpg" width="150" height=""/>
+<img src="assets/YuanLin.jpg" width="200" height=""/>
 
 
 * Yuan Lin(林远):<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
 
 ## PhD Students:
 * Changfu Gong（龚长富）:
-* Jingming Xu（徐锦明）:    
+
+<img src="assets/Jinming Xu.jpg" width="150" height=""/> 
+
+* Jingming Xu（徐锦明）:
+Email:
+Research Direction  :Mixed integer control, safe reinforcement learning.
+
 
 
 ## Master Students:
@@ -22,8 +28,20 @@ Our main research directions are reinforcement learning, energy management for h
 <img src="assets/Xiao Liu.jpg" width="150" height=""/> 
 
 * Xiao Liu（刘啸）：
+Email:
+Research Direction  :
+
+<img src="assets/Qitao Li.jpg" width="150" height=""/> 
+
 * Qitao Li（黎启涛）：
+Email:
+Research Direction  :
+
+<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
+
 * Ruichen Xu（徐瑞辰）：
+Email:
+Research Direction  : Reubforce learning
 * Hao Zhang（张浩）：  
 
 
@@ -32,7 +50,14 @@ Our main research directions are reinforcement learning, energy management for h
 <img src="assets/Haonan Wu.jpg" width="150" height=""/> 
 
 * Haonan Wu（吴浩楠）：
+Email:
+Research Direction  : Reinforce learning
+
+<img src="assets/Antai Xie.jpg" width="150" height=""/> 
+
 * Antai Xie（谢安泰）：
+Email:
+Research Direction  : Deep Learining
 	
 # Publications
 * [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: “Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,”IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
