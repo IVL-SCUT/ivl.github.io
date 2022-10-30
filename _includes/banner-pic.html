@@ -1,8 +1,0 @@
-{% if page.bannerpic %}
-<img class="main-image"
-	title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" 
-	src="/{{ site.theme-path }}/banners/{{ page.bannerpic }}"
-	srcset="/{{ site.theme-path }}/banners/{{ page.bannerpic }} 1000w"
-	{% if page.bannerpicsmall %} srcset="/{{ site.theme-path }}/banners/{{ page.bannerpicsmall }}" 640w, {% endif %}
-	alt="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-{% endif %}
