@@ -1,5 +1,6 @@
 # Intelligent Vehicles Lab
-Our main research directions are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving.At present, we have one PI, two PhD and six masters in our laboratory.
+Our main research directions are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving.At present, we have one PI, two PhD and six masters in our laboratory.  
+<br/>
 ***
 # News
 
