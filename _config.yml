@@ -1,24 +1,3 @@
-# Site settings
-title: Toasty Jekyll
-email: regmtait@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A super simple white label website built with Jekyll and using Dan Eden's Toast grid layout.
-baseurl: ""
-url: "https://example.com"
-phone: "07800 100100"
-theme-path: theme-assets # path to header assets etc
-map-api-key: AIzaSyB3U7uwIvCyq01orxppAIC1v73y-FBGygY
-sass:
-  sass_dir: _sass
-  style: compressed
+remote_theme: pages-themes/cayman@v0.2.0
+title: [Intelligent Vehicles Lab]
 
-collections:
-  case:
-    output: true
-    permalink: /case-studies/:path/
-  resource:
-    output: true
-    permalink: /resources/:path/
-
-# Build settings
-markdown: kramdown
