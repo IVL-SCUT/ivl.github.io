@@ -16,12 +16,14 @@ Our main research directions are reinforcement learning, energy management for h
 
 ***
 ## PhD Students:
+&emsp;<img src="assets/Changfu Gong.jpg" width="150" height=""/>
 * Changfu Gong（龚长富）:<br/>
+Research Direction:Reinforcement Learning, Energy Management For Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
  
 * Jinming Xu（徐锦明）:<br/>
- Research Direction :Mixed integer control, safe reinforcement learning.
+Research Direction :Mixed Integer Control, Safe Reinforcement Learning.
 
 
 ***  
@@ -32,11 +34,11 @@ Research Direction  :
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
 * Qitao Li（黎启涛）：<br/>
-Research Direction  :
+Research Direction  :Adaptive Cruise Control,Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
 * Ruichen Xu（徐瑞辰）：<br/>
-Research Direction  : Reubforce learning
+Research Direction  : Reinforce Learning
 * Hao Zhang（张浩）： <br/> 
 
 
@@ -44,7 +46,7 @@ Research Direction  : Reubforce learning
 
 &emsp;<img src="assets/Haonan Wu.jpg" width="150" height=""/> 
 * Haonan Wu（吴浩楠）：<br/>
-Research Direction  : Reinforce learning
+Research Direction  : Reinforce Learning
 
 
 
