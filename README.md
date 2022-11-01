@@ -1,5 +1,5 @@
 # Intelligent Vehicles Lab
-Our main research directions are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving.At present, we have one PI, two PhD and six masters in our laboratory.  
+Our main Research focuss are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving.At present, we have one PI, two PhD and six masters in our laboratory.  
 
 ***
 # News
@@ -18,41 +18,43 @@ Our main research directions are reinforcement learning, energy management for h
 ## PhD Students:
 &emsp;<img src="assets/Changfu Gong.jpg" width="150" height=""/>
 * Changfu Gong（龚长富）:<br/>
-Research Direction:Reinforcement Learning, Energy Management For Hybrid Electric Vehicles
+Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
  
 * Jinming Xu（徐锦明）:<br/>
-Research Direction :Mixed Integer Control, Safe Reinforcement Learning.
+Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 
 
 ***  
 ## Master Students:
 &emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
 * Xiao Liu（刘啸）：<br/>
-Research Direction  :
+Research focus: 
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
 * Qitao Li（黎启涛）：<br/>
-Research Direction  :Adaptive Cruise Control,Hybrid Electric Vehicles
+Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
 * Ruichen Xu（徐瑞辰）：<br/>
-Research Direction  : Reinforce Learning
-* Hao Zhang（张浩）： <br/> 
+Research focus: Reinforce Learning
 
+&emsp;<img src="assets/Hao Zhang.jpg" width="150" height=""/> 
+* Hao Zhang（张浩）： <br/> 
+Research focus: Energy Management for Hybrid Electric Vehicles
 
 
 
 &emsp;<img src="assets/Haonan Wu.jpg" width="150" height=""/> 
 * Haonan Wu（吴浩楠）：<br/>
-Research Direction  : Reinforce Learning
+Research focus: Reinforce Learning
 
 
 
 &emsp;<img src="assets/Antai Xie.jpg" width="150" height=""/> 
 * Antai Xie（谢安泰）：<br/>
-Research Direction  : Deep Learining
+Research focus: Deep Learining
 
 ***	
 # Publications
