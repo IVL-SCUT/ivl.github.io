@@ -30,7 +30,7 @@ Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 ## Master Students:
 &emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
 * Xiao Liu（刘啸）：<br/>
-Research focus: 
+Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
 * Qitao Li（黎启涛）：<br/>
@@ -63,4 +63,13 @@ Research focus: Deep Learining
 
 
 ***
-## Link
+# Facility
+## The Driving Simulator System
+&emsp;<img src="assets/The driving simulator system.jpg" width="250" height=""/> 
+* Vehicle in the loop,Simulation using a real car.
+## Autonomous Delivery Vehicle
+&emsp;<img src="assets/autonomous delivery vehicle.jpg" width="250" height=""/> 
+* L4 is unmanned in complex road conditions
+## Autonomous Robot
+&emsp;<img src="assets/autonomous robot.jpg" width="250" height=""/>
+* ROS Robot
