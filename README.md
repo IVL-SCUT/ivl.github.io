@@ -66,10 +66,14 @@ Research focus: Deep Learining
 # Facility
 ## The Driving Simulator System
 &emsp;<img src="assets/The driving simulator system.jpg" width="250" height=""/> 
-* Vehicle in the loop,Simulation using a real car.<br/>
+* Vehicle in the loop,Simulation using a real car.
+
+
 ## Autonomous Delivery Vehicle
 &emsp;<img src="assets/autonomous delivery vehicle.jpg" width="250" height=""/> 
-* L4 is unmanned in complex road conditions.<br/>
+* L4 is unmanned in complex road conditions.
+
+
 ## Autonomous Robot
 &emsp;<img src="assets/autonomous robot.jpg" width="250" height=""/>
-* ROS Robot.<br/>
+* ROS Robot.
