@@ -17,43 +17,43 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***
 ## PhD Students:
 &emsp;<img src="assets/Changfu Gong.jpg" width="150" height=""/>
-* Changfu Gong（龚长富）(September 2021 - Present):<br/>
+* Changfu Gong（龚长富）:September 2021 - Present<br/>
 Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
  
-* Jinming Xu（徐锦明）(September 2021 - Present):<br/>
+* Jinming Xu（徐锦明）:September 2021 - Present<br/>
 Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 
 
 ***  
 ## Master Students:
 &emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
-* Xiao Liu（刘啸）(September 2021 - Present)：<br/>
+* Xiao Liu（刘啸）：September 2021 - Present<br/>
 Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
-* Qitao Li（黎启涛）(September 2021 - Present)：<br/>
+* Qitao Li（黎启涛）：September 2021 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
-* Ruichen Xu（徐瑞辰）(September 2022 - Present)：<br/>
+* Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
 Research focus: Reinforce Learning
 
 &emsp;<img src="assets/Hao Zhang.jpg" width="150" height=""/> 
-* Hao Zhang（张浩）(September 2022 - Present)： <br/> 
+* Hao Zhang（张浩）：September 2022 - Present <br/> 
 Research focus: Energy Management for Hybrid Electric Vehicles
 
 
 
 &emsp;<img src="assets/Haonan Wu.jpg" width="150" height=""/> 
-* Haonan Wu（吴浩楠）(September 2022 - Present)：<br/>
+* Haonan Wu（吴浩楠）：September 2022 - Present<br/>
 Research focus: Reinforce Learning
 
 
 
 &emsp;<img src="assets/Antai Xie.jpg" width="150" height=""/> 
-* Antai Xie（谢安泰）(September 2022 - Present)：<br/>
+* Antai Xie（谢安泰）：September 2022 - Present<br/>
 Research focus: Deep Learining
 
 ***	
