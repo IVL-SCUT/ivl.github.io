@@ -63,6 +63,7 @@ Research focus: Autonomous Lane Change of Intelligent Vehicle
 &emsp;<img src="assets/Liyao Wang.jpg" width="150" height=""/> 
 * Liyao Wang（王立尧）：September 2022 - Present<br/>
 Research focus: Reinforce Learning
+
 ***	
 # Publications
 * [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: “Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,”IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
