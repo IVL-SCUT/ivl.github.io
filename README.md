@@ -33,7 +33,7 @@ Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
-* Qitao Li（黎启涛）：September 2021 - Present<br/>
+* Qitao Li（黎启涛）：September 2022 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 
 &emsp;<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
