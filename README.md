@@ -57,11 +57,11 @@ Research focus: Reinforce Learning
 Research focus: Deep Learining
 
 &emsp;<img src="assets/Zishun Zheng.jpg" width="250" height=""/> 
-* Zishun Zheng（郑子顺）：September 2022 - Present<br/>
+* Zishun Zheng（郑子顺）：September 2023 - Present<br/>
 Research focus: Autonomous Lane Change of Intelligent Vehicle
 
 &emsp;<img src="assets/Liyao Wang.jpg" width="150" height=""/> 
-* Liyao Wang（王立尧）：September 2022 - Present<br/>
+* Liyao Wang（王立尧）：September 2023 - Present<br/>
 Research focus: Reinforce Learning
 
 ***	
