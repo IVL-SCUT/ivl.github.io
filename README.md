@@ -9,18 +9,18 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ### Principal Investigator:
 
 
-  &emsp;<img  src="assets/YuanLin.jpg" width="200" height=""/>
+  &emsp;<img align="left" src="assets/YuanLin.jpg" width="200" height=""/>
 
 
-> Yuan Lin(林远):<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
+ Yuan Lin(林远):<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
 
 ***
 ## PhD Students:
-&emsp;<img src="assets/Changfu Gong.jpg" width="150" height=""/>
+&emsp;<img src="assets/Changfu Gong.jpg" width="150" height="200"/>
 * Changfu Gong（龚长富）:September 2021 - Present<br/>
 Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
 
-&emsp;<img src="assets/Jinming Xu.jpg" width="150" height=""/>
+&emsp;<img src="assets/Jinming Xu.jpg" width="150" height="200"/>
  
 * Jinming Xu（徐锦明）:September 2021 - Present<br/>
 Research focus: Mixed Integer Control, Safe Reinforcement Learning.
@@ -28,7 +28,7 @@ Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 
 ***  
 ## Master Students:
-&emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
+&emsp;<img src="assets/Xiao Liu.jpg" width="150" height="200"/> 
 * Xiao Liu（刘啸）：September 2021 - Present<br/>
 Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 
@@ -36,7 +36,7 @@ Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 * Qitao Li（黎启涛）：September 2022 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 
-&emsp;<img src="assets/Ruichen Xu.jpg" width="150" height=""/> 
+&emsp;<img src="assets/Ruichen Xu.jpg" width="150" height="200"/> 
 * Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
 Research focus: Reinforce Learning
 
@@ -85,3 +85,7 @@ Research focus: Reinforce Learning
 ## Autonomous Robot
 &emsp;<img src="assets/autonomous robot.jpg" width="250" height=""/>
 * ROS Robot.
+
+***
+
+# Group Photo
