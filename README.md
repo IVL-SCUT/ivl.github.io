@@ -17,7 +17,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <img align="left" src="assets/Changfu Gong.jpg" width="150" height=""/>
 <br/>
 <br/>
-<br/>Changfu Gong（龚长富）:September 2021 - Present<br/>
+Changfu Gong（龚长富）:September 2021 - Present<br/>
 Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -26,7 +26,7 @@ Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Ve
 <img align="left" src="assets/Jinming Xu.jpg" width="150" height=""/>
 <br/>
 <br/>
-<br/>Jinming Xu（徐锦明）:September 2021 - Present<br/>
+Jinming Xu（徐锦明）:September 2021 - Present<br/>
 Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 <br/>
 <br/>
@@ -39,7 +39,7 @@ Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 <img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Xiao Liu（刘啸）：September 2021 - Present<br/>
+Xiao Liu（刘啸）：September 2021 - Present<br/>
 Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <br/>
 <br/>
@@ -48,7 +48,7 @@ Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Qitao Li（黎启涛）：September 2022 - Present<br/>
+Qitao Li（黎启涛）：September 2022 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -57,7 +57,7 @@ Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 <img align="left" src="assets/Ruichen Xu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
+Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
 Research focus: Reinforcement Learning
 <br/>
 <br/>
@@ -66,7 +66,7 @@ Research focus: Reinforcement Learning
 <img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Hao Zhang（张浩）：September 2022 - Present <br/> 
+Hao Zhang（张浩）：September 2022 - Present <br/> 
 Research focus: Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -75,7 +75,7 @@ Research focus: Energy Management for Hybrid Electric Vehicles
 <img align="left" src="assets/Haonan Wu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Haonan Wu（吴浩楠）：September 2022 - Present<br/>
+Haonan Wu（吴浩楠）：September 2022 - Present<br/>
 Research focus: Reinforcement Learning
 <br/>
 <br/>
@@ -84,7 +84,7 @@ Research focus: Reinforcement Learning
 <img align="left" src="assets/Antai Xie.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Antai Xie（谢安泰）：September 2022 - Present<br/>
+Antai Xie（谢安泰）：September 2022 - Present<br/>
 Research focus: Deep Learining
 <br/>
 <br/>
@@ -93,7 +93,7 @@ Research focus: Deep Learining
 <img align="left" src="assets/Zishun Zheng.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Zishun Zheng（郑子顺）：September 2023 - Present<br/>
+Zishun Zheng（郑子顺）：September 2023 - Present<br/>
 Research focus: Autonomous Lane Change of Intelligent Vehicle
 <br/>
 <br/>
@@ -102,7 +102,7 @@ Research focus: Autonomous Lane Change of Intelligent Vehicle
 <img align="left" src="assets/Liyao Wang.jpg" width="150" height=""/> 
 <br/>
 <br/>
-<br/>Liyao Wang（王立尧）：September 2023 - Present<br/>
+Liyao Wang（王立尧）：September 2023 - Present<br/>
 Research focus: Reinforcement Learning
 <br/>
 <br/>
