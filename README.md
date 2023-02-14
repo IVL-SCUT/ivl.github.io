@@ -25,7 +25,6 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <br/>
 <br/>
 <br/>
-<br/>
 <img align="left" src="assets/Jinming Xu.jpg" width="150" height=""/>
 <br/>
 <br/>
@@ -50,7 +49,6 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <br/>
 <br/>
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
-<br/>
 <br/>
 **Qitao Li(黎启涛)**: September 2022 - Present<br/>
 **Research Interests**: Adaptive Cruise Control, Hybrid Electric Vehicles.
