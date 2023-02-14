@@ -18,10 +18,9 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***
 
 ## PhD Students:
-&emsp;<img align="left" src="assets/Changfu Gong.jpg" width="150" height=""/>
-* Changfu Gong（龚长富）:September 2021 - Present<br/>
+<img align="left" src="assets/Changfu Gong.jpg" width="150" height=""/>
+&emsp;Changfu Gong（龚长富）:September 2021 - Present<br/>
 Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
-
 <br/>
 <br/>
 <br/>
@@ -30,8 +29,7 @@ Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Ve
 <br/>
 <br/>
 <img align="left" src="assets/Jinming Xu.jpg" width="150" height=""/>
- 
-* Jinming Xu（徐锦明）:September 2021 - Present<br/>
+&emsp;Jinming Xu（徐锦明）:September 2021 - Present<br/>
 Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 <br/>
 <br/>
@@ -44,8 +42,8 @@ Research focus: Mixed Integer Control, Safe Reinforcement Learning.
 ***  
 
 ## Master Students:
-&emsp;<img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
-* Xiao Liu（刘啸）：September 2021 - Present<br/>
+<img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
+&emsp;Xiao Liu（刘啸）：September 2021 - Present<br/>
 Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <br/>
 <br/>
@@ -54,8 +52,8 @@ Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <br/>
 <br/>
 <br/>
-&emsp;<img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
-* Qitao Li（黎启涛）：September 2022 - Present<br/>
+<img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
+&emsp;Qitao Li（黎启涛）：September 2022 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -64,8 +62,8 @@ Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
 <br/>
 <br/>
 <br/>
-&emsp;<img align="left" src="assets/Ruichen Xu.jpg" width="150" height=""/> 
-* Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
+<img align="left" src="assets/Ruichen Xu.jpg" width="150" height=""/> 
+&emsp;Ruichen Xu（徐瑞辰）：September 2022 - Present<br/>
 Research focus: Reinforcement Learning
 <br/>
 <br/>
@@ -74,8 +72,8 @@ Research focus: Reinforcement Learning
 <br/>
 <br/>
 <br/>
-&emsp;<img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
-* Hao Zhang（张浩）：September 2022 - Present <br/> 
+<img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
+&emsp;Hao Zhang（张浩）：September 2022 - Present <br/> 
 Research focus: Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -84,10 +82,8 @@ Research focus: Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
 <br/>
-
-
-&emsp;<img align="left" src="assets/Haonan Wu.jpg" width="150" height=""/> 
-* Haonan Wu（吴浩楠）：September 2022 - Present<br/>
+<img align="left" src="assets/Haonan Wu.jpg" width="150" height=""/> 
+&emsp;Haonan Wu（吴浩楠）：September 2022 - Present<br/>
 Research focus: Reinforcement Learning
 
 <br/>
@@ -98,8 +94,8 @@ Research focus: Reinforcement Learning
 <br/>
 <br/>
 
-&emsp;<img align="left" src="assets/Antai Xie.jpg" width="150" height=""/> 
-* Antai Xie（谢安泰）：September 2022 - Present<br/>
+<img align="left" src="assets/Antai Xie.jpg" width="150" height=""/> 
+&emsp;Antai Xie（谢安泰）：September 2022 - Present<br/>
 Research focus: Deep Learining
 <br/>
 <br/>
@@ -108,8 +104,8 @@ Research focus: Deep Learining
 <br/>
 <br/>
 <br/>
-&emsp;<img align="left" src="assets/Zishun Zheng.jpg" width="150" height=""/> 
-* Zishun Zheng（郑子顺）：September 2023 - Present<br/>
+<img align="left" src="assets/Zishun Zheng.jpg" width="150" height=""/> 
+&emsp;Zishun Zheng（郑子顺）：September 2023 - Present<br/>
 Research focus: Autonomous Lane Change of Intelligent Vehicle
 <br/>
 <br/>
@@ -118,8 +114,8 @@ Research focus: Autonomous Lane Change of Intelligent Vehicle
 <br/>
 <br/>
 <br/>
-&emsp;<img align="left" src="assets/Liyao Wang.jpg" width="150" height=""/> 
-* Liyao Wang（王立尧）：September 2023 - Present<br/>
+<img align="left" src="assets/Liyao Wang.jpg" width="150" height=""/> 
+&emsp;Liyao Wang（王立尧）：September 2023 - Present<br/>
 Research focus: Reinforcement Learning
 <br/>
 <br/>
@@ -128,7 +124,9 @@ Research focus: Reinforcement Learning
 <br/>
 <br/>
 <br/>
+
 ***	
+
 # Publications
 * [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: “Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,”IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
 
