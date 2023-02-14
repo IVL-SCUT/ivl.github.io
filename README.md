@@ -23,6 +23,7 @@ Research focus: Reinforcement Learning, Energy Management for Hybrid Electric Ve
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Jinming Xu.jpg" width="150" height=""/>
 <br/>
 <br/>
