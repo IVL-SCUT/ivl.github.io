@@ -121,20 +121,20 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 ***	
 
 # Publications
-* [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: "Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,"IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
+* [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
 
 
 
 ***
-# Facility
+# Facilities
 ## The Driving Simulator System
 &emsp;<img src="assets/The driving simulator system.jpg" width="250" height=""/> 
-* Vehicle in the loop,Simulation using a real car.
+* Vehicle in the loop.
 
 
 ## Autonomous Delivery Vehicle
 &emsp;<img src="assets/autonomous delivery vehicle.jpg" width="250" height=""/> 
-* L4 is unmanned in complex road conditions.
+* Level 4 in complex road conditions. 
 
 
 ## Autonomous Robot
