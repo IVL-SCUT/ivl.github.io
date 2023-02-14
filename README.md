@@ -4,6 +4,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***
 # News
 
+Xiao Liu has passed the opening defense of the graduate thesis on September 26, 2022
 ***
 # People
 ### Principal Investigator:
