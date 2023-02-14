@@ -45,11 +45,13 @@ Research focus: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
 <br/>
 <br/>
 Qitao Li（黎启涛）：September 2022 - Present<br/>
 Research focus: Adaptive Cruise Control,Hybrid Electric Vehicles
+<br/>
 <br/>
 <br/>
 <br/>
@@ -63,11 +65,13 @@ Research focus: Reinforcement Learning
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
 <br/>
 <br/>
 Hao Zhang（张浩）：September 2022 - Present <br/> 
 Research focus: Energy Management for Hybrid Electric Vehicles
+<br/>
 <br/>
 <br/>
 <br/>
@@ -81,11 +85,13 @@ Research focus: Reinforcement Learning
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Antai Xie.jpg" width="150" height=""/> 
 <br/>
 <br/>
 Antai Xie（谢安泰）：September 2022 - Present<br/>
 Research focus: Deep Learining
+<br/>
 <br/>
 <br/>
 <br/>
@@ -99,11 +105,13 @@ Research focus: Autonomous Lane Change of Intelligent Vehicle
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Liyao Wang.jpg" width="150" height=""/> 
 <br/>
 <br/>
 Liyao Wang（王立尧）：September 2023 - Present<br/>
 Research focus: Reinforcement Learning
+<br/>
 <br/>
 <br/>
 <br/>
