@@ -19,7 +19,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Changfu Gong.jpg" width="150" height=""/>
 <br/>
 <br/>
-**Changfu Gong（龚长富）**:September 2021 - Present<br/>
+**Changfu Gong(龚长富)**:September 2021 - Present<br/>
 **Research focus**: Reinforcement Learning, Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Jinming Xu.jpg" width="150" height=""/>
 <br/>
 <br/>
-**Jinming Xu（徐锦明）**:September 2021 - Present<br/>
+**Jinming Xu(徐锦明)**:September 2021 - Present<br/>
 **Research focus**: Mixed Integer Control, Safe Reinforcement Learning.
 <br/>
 <br/>
@@ -42,7 +42,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Xiao Liu（刘啸）**：September 2021 - Present<br/>
+**Xiao Liu(刘啸)**:September 2021 - Present<br/>
 **Research focus**: Reinforcement Learning,Intelligent Lane Change, Optimal Control
 <br/>
 <br/>
@@ -52,7 +52,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Qitao Li（黎启涛）**：September 2022 - Present<br/>
+**Qitao Li(黎启涛)**:September 2022 - Present<br/>
 **Research focus**: Adaptive Cruise Control,Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Ruichen Xu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Ruichen Xu（徐瑞辰）**：September 2022 - Present<br/>
+**Ruichen Xu(徐瑞辰)**:September 2022 - Present<br/>
 **Research focus**: Reinforcement Learning
 <br/>
 <br/>
@@ -72,7 +72,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Hao Zhang（张浩）**：September 2022 - Present <br/> 
+**Hao Zhang(张浩)**:September 2022 - Present <br/> 
 **Research focus**: Energy Management for Hybrid Electric Vehicles
 <br/>
 <br/>
@@ -82,7 +82,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Haonan Wu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Haonan Wu（吴浩楠）**：September 2022 - Present<br/>
+**Haonan Wu(吴浩楠)**:September 2022 - Present<br/>
 **Research focus**: Reinforcement Learning
 <br/>
 <br/>
@@ -92,7 +92,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Antai Xie.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Antai Xie（谢安泰）**：September 2022 - Present<br/>
+**Antai Xie(谢安泰)**:September 2022 - Present<br/>
 **Research focus**: Deep Learining
 <br/>
 <br/>
@@ -102,7 +102,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Zishun Zheng.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Zishun Zheng（郑子顺）**：September 2023 - Present<br/>
+**Zishun Zheng(郑子顺)**:September 2023 - Present<br/>
 **Research focus**: Autonomous Lane Change of Intelligent Vehicle
 <br/>
 <br/>
@@ -112,7 +112,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <img align="left" src="assets/Liyao Wang.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Liyao Wang（王立尧）**：September 2023 - Present<br/>
+**Liyao Wang(王立尧)**:September 2023 - Present<br/>
 **Research focus**: Reinforcement Learning
 <br/>
 <br/>
@@ -123,7 +123,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 ***	
 
 # Publications
-* [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: “Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,”IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
+* [[1]Yuan Lin, John McPhee, Nasser L. Azad, 2022: "Co-optimization of on-ramp merging and plug-in hybrid electric vehicle power split using deep reinforcement learning,"IEEE Transactions on Vehicular Technology. Accepted.](https://ieeexplore.ieee.org/abstract/document/9757859)
 
 
 
