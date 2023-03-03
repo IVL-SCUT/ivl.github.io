@@ -143,4 +143,4 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 
 ***
 
-# Group Photo
+
