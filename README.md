@@ -121,7 +121,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 ***	
 
 # Publications
-* [Li Q, Gong F, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management Via Model Predictive Mixed Integer Control[J]. arXiv preprint arXiv:2303.01218, 2023.](https://arxiv.org/abs/2303.01218)
+* [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management Via Model Predictive Mixed Integer Control[J]. arXiv preprint arXiv:2303.01218, 2023.](https://arxiv.org/abs/2303.01218)
 * [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
 
 
