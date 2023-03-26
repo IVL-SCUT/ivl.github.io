@@ -91,7 +91,7 @@ Xiao Liu has passed the opening defense of the graduate thesis on September 26, 
 <br/>
 <br/>
 **Antai Xie(谢安泰)**: September 2022 - Present<br/>
-**Research Interests**: Deep Learining.
+**Research Interests**: Deep Learning.
 <br/>
 <br/>
 <br/>
