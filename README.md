@@ -1,16 +1,17 @@
 # Intelligent Vehicles Lab
-Our main research focuses are reinforcement learning, energy management for hybrid vehicles, and decision-making and control for autonomous driving. At present, we have one PI, two PhDs and eight masters in our laboratory.  
+Our main research focuses are reinforcement learning, energy management for hybrid vehicles, and behavioral decision-making for automated vehicles. At present, we have one PI, two PhDs and eight masters in our laboratory.  
 
 ***
-# News
 
-Xiao Liu has passed the opening defense of the graduate thesis on September 26, 2022.
 
-***
+
 # People
 ### Principal Investigator:
 <img align="left" src="assets/YuanLin.jpg" width="225" height=""/>
- <big>**Yuan Lin(林远)**</big>:<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. His research interests include autonomous driving, reinforcement learning, and hybrid electric vehicles.
+ <big>**Yuan Lin(林远)**</big>:<br />Yuan Lin (Member, IEEE) received the B.E. degree in civil engineering from Nanchang University, Nanchang, China, in 2011 and the Ph.D. degree in engineering mechanics from Virginia Tech, Blacksburg, VA, USA, in 2016. He was a Postdoctoral Fellow with Mechanical Engineering Department, Virginia Tech, from 2016 to 2018, and was with the Systems Design Engineering Department, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2020. He is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, China. 
+ <br/>
+ <br/>
+ <br/>
 
 
 ***
