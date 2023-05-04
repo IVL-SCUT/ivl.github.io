@@ -30,7 +30,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 **Jinming Xu(徐锦明)**: September 2021 - Present<br/>
-**Research Interests**: Mixed Integer Control, Safe Reinforcement Learning.
+**Research Interests**: Mixed-Integer Control, Safe Reinforcement Learning.
 <br/>
 <br/>
 <br/>
@@ -122,7 +122,8 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***	
 
 # Publications
-* [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management Via Model Predictive Mixed Integer Control[J]. arXiv preprint arXiv:2303.01218, 2023.](https://arxiv.org/abs/2303.01218)
+* [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
+* [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management via Model Predictive Mixed Integer Control[J]. arXiv preprint arXiv:2303.01218, 2023.](https://arxiv.org/abs/2303.01218)
 * [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
 
 
