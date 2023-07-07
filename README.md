@@ -126,8 +126,11 @@ Our main research focuses are reinforcement learning, energy management for hybr
 * [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
 * [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management via Model Predictive Mixed Integer Control[J]. arXiv preprint arXiv:2303.01218, 2023.](https://arxiv.org/abs/2303.01218)
 * [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
-
-
+* [Yuan Lin; John McPhee; Nasser L. Azad ; Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning, IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
+* [Yuan Lin; John McPhee; Nasser L. Azad ; Comparison of Deep Reinforcement Learning and  Model Predictive Control for Adaptive Cruise Control, IEEE Transactions on Intelligent Vehicles, 2021, 6(2): 221-231](https://ieeexplore.ieee.org/abstract/document/9152161)
+* [Yuan Lin; Azim Eskandarian ; Integrating Intervehicular Communications, Vehicle Localization, and a Digital Map for Cooperative Adaptive Cruise Control with Target DetectionLoss, SAE International Journal of Connected and Automated Vehicles, 2020, 3(3): 193-204.](https://arxiv.org/abs/1901.02989)
+* [Yuan Lin; John McPhee; Nasser L. Azad ; Anti-Jerk On-Ramp Merging Using Deep Reinforcement Learning, 2020 IEEE Intelligent Vehicles Symposium, Las Vegas, NV, United States,2020-10-20至2020-10-23 ](https://ieeexplore.ieee.org/abstract/document/9304647)
+* [Yuan Lin; John McPhee; Nasser L. Azad ; Longitudinal Dynamic versus Kinematic Models for Car-Following Control Using Deep Reinforcement Learning, 2019 IEEE Intelligent Transportation Systems Conference, Auckland, New Zealand, 2019-10-27至2019-10-30 ](https://ieeexplore.ieee.org/abstract/document/8916781)
 
 ***
 # Facilities
