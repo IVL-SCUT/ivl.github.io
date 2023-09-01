@@ -68,16 +68,6 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 <br/>
-<img align="left" src="assets/Hao Zhang.jpg" width="150" height=""/> 
-<br/>
-<br/>
-**Hao Zhang(张浩)**: September 2022 - Present <br/> 
-**Research Interests**: Energy Management for Hybrid Electric Vehicles.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <img align="left" src="assets/Haonan Wu.jpg" width="150" height=""/> 
 <br/>
 <br/>
