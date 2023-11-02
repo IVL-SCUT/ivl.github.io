@@ -108,7 +108,36 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 <br/>
-
+<img align="left" src="assets/Zifeng Chen.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Zifeng Chen(陈梓锋)**: September 2024 - Present<br/>
+**Research Interests**: Intelligent Vehicle.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="assets/Zhenning Zhu.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Zhenning Zhu(朱振宁)**: September 2024 - Present<br/>
+**Research Interests**: Reinforcement Learning.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="assets/Jianan Ji.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Jianan Ji(纪家楠)**: September 2024 - Present<br/>
+**Research Interests**: Reinforcement Learning.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ***	
 
 # Publications
