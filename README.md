@@ -142,6 +142,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***	
 
 # Publications
+* [Xu J, Lin Y. Energy Management for Hybrid Electric Vehicles Using Safe Hybrid-Action Reinforcement Learning[J]. Mathematics, 2024, 12(5): 663.](https://www.mdpi.com/2227-7390/12/5/663)
 * [Gong C, Xu J, Lin Y. Energy Management for a DM-i Plug-in Hybrid Electric Vehicle via Continuous-Discrete Reinforcement Learning[J]. arXiv preprint arXiv:2306.08823, 2023.](https://arxiv.org/abs/2306.08823)
 * [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
 * [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management via Model Predictive Mixed Integer Control[C]//2023 42st Chinese Control Conference (CCC). IEEE, 2023:6557-6562.](https://ieeexplore.ieee.org/document/10241172)
