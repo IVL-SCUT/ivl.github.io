@@ -142,6 +142,10 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***	
 
 # Publications
+* [Xu R, Liu X, Xu J, et al. Safe Hybrid-Action Reinforcement Learning-Based Decision and Control for Discretionary Lane Change[J]. arXiv preprint arXiv:2403.00446, 2024.](https://arxiv.org/abs/2403.00446)
+* [Lin Y, Liu X, Zheng Z, et al. Discretionary Lane-Change Decision and Control via Parameterized Soft Actor-Critic for Hybrid Action Space[J]. arXiv preprint arXiv:2402.15790, 2024.](https://arxiv.org/abs/2402.15790)
+* [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. arXiv preprint arXiv:2402.17524, 2024.](https://arxiv.org/abs/2402.17524)
+* [Lin Y, Xie A, Liu X. Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization[J]. arXiv preprint arXiv:2403.02882, 2024.](https://arxiv.org/abs/2403.02882)
 * [Xu J, Lin Y. Energy Management for Hybrid Electric Vehicles Using Safe Hybrid-Action Reinforcement Learning[J]. Mathematics, 2024, 12(5): 663.](https://www.mdpi.com/2227-7390/12/5/663)
 * [Gong C, Xu J, Lin Y. Energy Management for a DM-i Plug-in Hybrid Electric Vehicle via Continuous-Discrete Reinforcement Learning[J]. arXiv preprint arXiv:2306.08823, 2023.](https://arxiv.org/abs/2306.08823)
 * [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
