@@ -142,12 +142,12 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***	
 
 # Publications
-* [Xu R, Xu J, Liu X, et al. Safe hybrid-action reinforcement learning-based decision and control for discretionary lane change[J]. Machines, 2024, 12(4): 252.](https://www.mdpi.com/2075-1702/12/4/252)
-* [Lin Y, Liu X, Zheng Z. Discretionary Lane-Change Decision and Control via Parameterized Soft Actor–Critic for Hybrid Action Space[J]. Machines, 2024, 12(4): 213.](https://www.mdpi.com/2075-1702/12/4/213)
 * [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. arXiv preprint arXiv:2402.17524, 2024.](https://arxiv.org/abs/2402.17524)
 * [Lin Y, Xie A, Liu X. Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization[J]. Machines, 2024, 12(4): 264.](https://www.mdpi.com/2075-1702/12/4/264)
-* [Xu J, Lin Y. Energy Management for Hybrid Electric Vehicles Using Safe Hybrid-Action Reinforcement Learning[J]. Mathematics, 2024, 12(5): 663.](https://www.mdpi.com/2227-7390/12/5/663)
+* [Xu R, Xu J, Liu X, et al. Safe hybrid-action reinforcement learning-based decision and control for discretionary lane change[J]. Machines, 2024, 12(4): 252.](https://www.mdpi.com/2075-1702/12/4/252)
 * [Gong C, Xu J, Lin Y. Plug‐In Hybrid Electric Vehicle Energy Management with Clutch Engagement Control via Continuous‐Discrete Reinforcement Learning[J]. Energy Technology, 2024: 2301512.](https://onlinelibrary.wiley.com/doi/full/10.1002/ente.202301512)
+* [Lin Y, Liu X, Zheng Z. Discretionary Lane-Change Decision and Control via Parameterized Soft Actor–Critic for Hybrid Action Space[J]. Machines, 2024, 12(4): 213.](https://www.mdpi.com/2075-1702/12/4/213)
+* [Xu J, Lin Y. Energy Management for Hybrid Electric Vehicles Using Safe Hybrid-Action Reinforcement Learning[J]. Mathematics, 2024, 12(5): 663.](https://www.mdpi.com/2227-7390/12/5/663)
 * [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
 * [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management via Model Predictive Mixed Integer Control[C]//2023 42st Chinese Control Conference (CCC). IEEE, 2023:6557-6562.](https://ieeexplore.ieee.org/document/10241172)
 * [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
