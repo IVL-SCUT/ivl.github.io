@@ -30,7 +30,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 **Jinming Xu(徐锦明)**: September 2021 - Present<br/>
-**Research Interests**: Mixed-Integer Control, Safe Reinforcement Learning.
+**Research Interests**: Mixed-Integer Control, Safe Reinforcement Learning, Hybrid Electric Vehicles.
 <br/>
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 **Ruichen Xu(徐瑞辰)**: September 2022 - Present<br/>
-**Research Interests**: Reinforcement Learning.
+**Research Interests**: Safe Reinforcement Learning.
 <br/>
 <br/>
 <br/>
@@ -102,7 +102,7 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 **Liyao Wang(王立尧)**: September 2023 - Present<br/>
-**Research Interests**: Reinforcement Learning.
+**Research Interests**: Multi-Agent Reinforcement Learning.
 <br/>
 <br/>
 <br/>
@@ -132,17 +132,30 @@ Our main research focuses are reinforcement learning, energy management for hybr
 <br/>
 <br/>
 **Jianan Ji(纪家楠)**: September 2024 - Present<br/>
-**Research Interests**: Reinforcement Learning.
+**Research Interests**: Planning and Control of Autonomous Vehicle.
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-***	
+***
+
+## Undergraduate Students:
+<img align="left" src="assets/Yihan Wang.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Yihan Wang(王艺涵)**: September 2024 - Present<br/>
+**Research Interests**: Construction of Autonomous Driving Platform.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Publications
-* [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. arXiv preprint arXiv:2402.17524, 2024.](https://arxiv.org/abs/2402.17524)
+* [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. Asian Control Conference, Accepted.](https://arxiv.org/abs/2402.17524)
+* [Wang L, Zheng Z, Lin Y. Steady-State Error Compensation for Reinforcement Learning with Quadratic Rewards[J]. Asian Control Conference, Accepted.](https://arxiv.org/abs/2402.09075)
 * [Lin Y, Xie A, Liu X. Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization[J]. Machines, 2024, 12(4): 264.](https://www.mdpi.com/2075-1702/12/4/264)
 * [Xu R, Xu J, Liu X, et al. Safe hybrid-action reinforcement learning-based decision and control for discretionary lane change[J]. Machines, 2024, 12(4): 252.](https://www.mdpi.com/2075-1702/12/4/252)
 * [Gong C, Xu J, Lin Y. Plug‐In Hybrid Electric Vehicle Energy Management with Clutch Engagement Control via Continuous‐Discrete Reinforcement Learning[J]. Energy Technology, 2024: 2301512.](https://onlinelibrary.wiley.com/doi/full/10.1002/ente.202301512)
@@ -161,9 +174,6 @@ Our main research focuses are reinforcement learning, energy management for hybr
 * Vehicle in the loop.
 
 
-## Autonomous Delivery Vehicle
-&emsp;<img src="assets/autonomous delivery vehicle.jpg" width="250" height=""/> 
-* Level 4 in complex road conditions. 
 
 
 ## Autonomous Robot
