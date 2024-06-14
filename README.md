@@ -39,15 +39,6 @@ Our main research focuses are reinforcement learning, energy management for hybr
 ***  
 
 ## Master Students:
-<img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
-<br/>
-<br/>
-**Xiao Liu(刘啸)**: September 2021 - Present<br/>
-**Research Interests**: Reinforcement Learning, Intelligent Lane Change, Optimal Control.
-<br/>
-<br/>
-<br/>
-<br/>
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
 <br/>
 <br/>
