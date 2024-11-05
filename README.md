@@ -130,6 +130,7 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 <br/>
+
 ***
 
 
@@ -147,11 +148,11 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 * [Lin Y, Azim Eskandarian, 2020: “Integrating Inter-Vehicular Communications, Vehicle Localization, and a Digital Map for Cooperative Adaptive Cruise Control with Target Detection Loss,” SAE International Journal of Connected and Automated Vehicles, 3(3), 193-204.](https://arxiv.org/abs/1901.02989)
 
 ***
+
 # Facilities
 ## The Driving Simulator System
 &emsp;<img src="assets/The driving simulator system.jpg" width="250" height=""/> 
 * Vehicle in the loop.
-
 
 ***
 
