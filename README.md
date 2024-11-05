@@ -44,7 +44,7 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Xiao Liu(刘啸)**: September 2021 - Present<br/>
+**Xiao Liu(刘啸)**: September 2021 - 2024<br/>
 **Research Interests**: Reinforcement Learning, Intelligent Lane Change, Optimal Control.
 <br/>
 <br/>
