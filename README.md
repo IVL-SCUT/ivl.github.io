@@ -133,6 +133,8 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 
+***
+
 # Selected Publications
 * [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. Asian Control Conference, Accepted.](https://arxiv.org/abs/2402.17524)
 * [Wang L, Zheng Z, Lin Y. Steady-State Error Compensation for Reinforcement Learning with Quadratic Rewards[J]. Asian Control Conference, Accepted.](https://arxiv.org/abs/2402.09075)
