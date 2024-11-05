@@ -1,6 +1,5 @@
 # Intelligent Vehicles Lab
-Our main research focuses are energy management, autonomous driving and reinforcement learning. At present, we have one PI, two PhDs and eight masters in our laboratory.  
-
+Our main research focuses are energy management, autonomous driving and reinforcement learning.
 ***
 
 
@@ -41,15 +40,6 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 ***  
 
 ## Master Students:
-<img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
-<br/>
-<br/>
-**Xiao Liu(刘啸)**: September 2021 - 2024<br/>
-**Research Interests**: Reinforcement Learning, Intelligent Lane Change, Optimal Control.
-<br/>
-<br/>
-<br/>
-<br/>
 <img align="left" src="assets/Qitao Li.jpg" width="150" height=""/> 
 <br/>
 <br/>
@@ -132,8 +122,16 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 
 ***
-
-
+## Alumni:
+<img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Xiao Liu(刘啸)**: September 2021 - 2024<br/>
+**Research Interests**: Reinforcement Learning, Intelligent Lane Change, Optimal Control.
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Selected Publications
 * [Zheng Z, Liu X, Lin Y. Highway Discretionary Lane-change Decision and Control Using Model Predictive Control[J]. Asian Control Conference, Accepted.](https://arxiv.org/abs/2402.17524)
@@ -141,7 +139,7 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 * [Xu R, Xu J, Liu X, et al. Safe hybrid-action reinforcement learning-based decision and control for discretionary lane change[J]. Machines, 2024, 12(4): 252.](https://www.mdpi.com/2075-1702/12/4/252)
 * [Gong C, Xu J, Lin Y. Plug‐In Hybrid Electric Vehicle Energy Management with Clutch Engagement Control via Continuous‐Discrete Reinforcement Learning[J]. Energy Technology, 2024: 2301512.](https://onlinelibrary.wiley.com/doi/full/10.1002/ente.202301512)
 * [Xu J, Lin Y. Energy Management for Hybrid Electric Vehicles Using Safe Hybrid-Action Reinforcement Learning[J]. Mathematics, 2024, 12(5): 663.](https://www.mdpi.com/2227-7390/12/5/663)
-* [Xu J, Lin Y. Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management[J]. arXiv preprint arXiv:2305.01461, 2023.](https://arxiv.org/abs/2305.01461)
+* [Xu J, Azad N L, Lin Y. Mixed‐Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Electric Vehicle Energy Management[J]. Optimal Control Applications and Methods, 2024.](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3216)
 * [Li Q, Gong C, Lin Y. Co-Optimization of Adaptive Cruise Control and Hybrid Electric Vehicle Energy Management via Model Predictive Mixed Integer Control[C]//2023 42st Chinese Control Conference (CCC). IEEE, 2023:6557-6562.](https://ieeexplore.ieee.org/document/10241172)
 * [Lin Y, McPhee J, Azad N L. Co-Optimization of On-Ramp Merging and Plug-In Hybrid Electric Vehicle Power Split Using Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 6958-6968.](https://ieeexplore.ieee.org/abstract/document/9757859)
 * [Lin Y, J. McPhee and N. L. Azad, "Comparison of Deep Reinforcement Learning and Model Predictive Control for Adaptive Cruise Control," in IEEE Transactions on Intelligent Vehicles, vol. 6, no. 2, pp. 221-231, June 2021, doi: 10.1109/TIV.2020.3012947.](https://ieeexplore.ieee.org/abstract/document/9152161)
