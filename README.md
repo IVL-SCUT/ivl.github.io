@@ -140,11 +140,13 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 <br/>
+<br/>
 <img align="left" src="assets/Ruhao Chen.jpg" width="150" height=""/> 
 <br/>
 <br/>
 **Ruhao Chen(陈儒昊)**: September 2025 - Present<br/>
 **Research Interests**: Intelligent Vehicle.
+<br/>
 <br/>
 <br/>
 <br/>
