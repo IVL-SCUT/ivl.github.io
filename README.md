@@ -130,6 +130,16 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 <br/>
+<img align="left" src="assets/Siwei Dong.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Siwei Dong(董思威)**: September 2024 - Present<br/>
+**Research Interests**: World Model,Reinforcement Learning.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="left" src="assets/Ruhao Chen.jpg" width="150" height=""/> 
 <br/>
 <br/>
