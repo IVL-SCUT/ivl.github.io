@@ -37,6 +37,15 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 <br/>
+<img align="left" src="assets/Imran Hussain.jpg" width="150" height=""/>
+<br/>
+<br/>
+**Imran Hussain(何森艾)**: September 2024 - Present<br/>
+**Research Interests**: World Models, Imitation learning.
+<br/>
+<br/>
+<br/>
+<br/>
 
 ***  
 
@@ -115,6 +124,26 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 **Zhenning Zhu(朱振宁)**: September 2024 - Present<br/>
+**Research Interests**: Reinforcement Learning.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="assets/Ruhao Chen.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Ruhao Chen(陈儒昊)**: September 2025 - Present<br/>
+**Research Interests**: Intelligent Vehicle.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="assets/Leixiang Shu.jpg" width="150" height=""/> 
+<br/>
+<br/>
+**Leixiang Shu(舒雷翔)**: September 2025 - Present<br/>
 **Research Interests**: Reinforcement Learning.
 <br/>
 <br/>
