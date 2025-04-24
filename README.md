@@ -37,15 +37,7 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <br/>
 <br/>
 <br/>
-<img align="left" src="assets/Imran Hussain.jpg" width="150" height=""/>
-<br/>
-<br/>
-**Imran Hussain(何森艾)**: September 2024 - Present<br/>
-**Research Interests**: World Models, Imitation learning.
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ***  
 
@@ -168,8 +160,18 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 <img align="left" src="assets/Xiao Liu.jpg" width="150" height=""/> 
 <br/>
 <br/>
-**Xiao Liu(刘啸)**: September 2021 - 2024<br/>
+**Xiao Liu(刘啸)**: September 2021 - June 2024<br/>
 **Research Interests**: Reinforcement Learning, Intelligent Lane Change, Optimal Control.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" src="assets/Imran Hussain.jpg" width="150" height=""/>
+<br/>
+<br/>
+**Imran Hussain(何森艾)**: September 2024 - April 2025<br/>
+**Research Interests**: World Models, Imitation learning.
 <br/>
 <br/>
 <br/>
